@@ -7,8 +7,8 @@
 - Examples of test and keyword files;
 - Custom keywords in Python;
 - Locators for web testing;
-- Web testing with Selenium Library;
-- API testing with Requests Library.
+- Web testing with SeleniumLibrary;
+- API testing with RequestsLibrary.
 
 The workshop was recorded and is available in Portuguese on YouTube via [this link](https://www.youtube.com/watch?v=r1Yp3Ju4C-U).
 
