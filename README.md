@@ -45,8 +45,9 @@ To run the project, open it on your favorite IDE and use one of the following co
 - `robot -d reports/ tests/`: to execute all tests inside the "tests" folder and save the report in the "reports" folder.
 - `robot -d reports/ tests/web/home.robot`: to execute all tests defined in the "home.robot" file.
 - `robot -d reports/ -i REGRESSION`: to execute all tests with the "REGRESSION" tag.
-<!-- - Para executar o teste do arquivo "tipos-variaveis.robot": robot -d reports/ resources/tipos-variaveis.robot
-- Para executar o teste do arquivo "home.robot": robot -d reports/ tests/web/home.robot -->
+
+After the execution, Robot Framework will automatically generate the "report.html" file in the specified folder, which will look like this:
+![alt text](resources/report-file.png)
 
 ## References
 [Robot Framework](https://robotframework.org/)
